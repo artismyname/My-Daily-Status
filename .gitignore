@@ -1,0 +1,6 @@
+.next
+.now
+node_modules
+.env
+firebase-secret.json
+package-lock.json
